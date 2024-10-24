@@ -1,0 +1,13 @@
+.enlace{
+    background-color: aqua;
+    font-size: 40px;
+    font-style: oblique;
+}
+.fondo {
+    background-color: red;
+}
+.letra{
+    font-size: 50px;
+    color: blue;
+    font-style: italic;
+}
